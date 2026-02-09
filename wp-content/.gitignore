@@ -1,0 +1,14 @@
+# Ignore sensitive credentials
+wp-config.php
+
+# Ignore the heavy uploads folder
+wp-content/uploads/
+
+# Ignore backups and zips
+*.bak
+*.tar.gz
+*.zip
+*.sql
+.DS_Store
+
+
